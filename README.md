@@ -1,6 +1,6 @@
 # Self-Checkout System
 
-## Motivation
+## Motivation for project 
 
 Many conventional shops have complex and tedious billing process which increases the waiting time for the customers. Long queues at billing counters and slow and manual billing process are some of the typical problems which affects the customer satisfaction. This problem multiplies ten folds in peak traffic leading to customers waiting for hours at billing counter for their turn.
 
@@ -144,3 +144,4 @@ The functionality of mailing the invoice to the customer can also be implemented
 Another functionality of displaying the store stocks, the products purchased along with other critical statistics to the shop owner can also be implemented. The owner can use these statistics to purchase relevant products.
 
 This system can be adapted to use UPI for payments as well in places with low awareness about blockchain.
+
